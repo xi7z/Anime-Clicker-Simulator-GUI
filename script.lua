@@ -441,7 +441,7 @@ local Wait = library.subs.Wait -- Only returns if the GUI has not been terminate
 local PepsisWorld = library:CreateWindow({
 Name = "Dew's World",
 Themeable = {
-Info = "Discord Server: VzYTJ7Y"
+Info = "Discord Account: Dew#6450"
 }
 })
 
