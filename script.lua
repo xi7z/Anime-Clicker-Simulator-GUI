@@ -439,7 +439,7 @@ local library = loadstring(game:GetObjects("rbxassetid://7657867786")[1].Source)
 local Wait = library.subs.Wait -- Only returns if the GUI has not been terminated. For 'while Wait() do' loops
 
 local PepsisWorld = library:CreateWindow({
-Name = "Dew's World",
+Name = "Pepsis's World",
 Themeable = {
 Info = "Discord Account: Dew#6450"
 }
